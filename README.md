@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.showmetech.com.br%2Fprogramacao-e-codigo-confira-5-sites-para-aprender-a-programar-de-graca%2F&psig=AOvVaw0kupNqH2C9HKxzly-B2_kP&ust=1683210532830000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKC65YKu2f4CFQAAAAAdAAAAABAE?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.xxl.thumbs.canstockphoto.com.br/c%C3%B3digos-%C3%ADcones-cor-luz-programa%C3%A7%C3%A3o-solu%C3%A7%C3%A3o-tech-computador-fundo-bulbo-vetor-cliparte_csp55135754.jpg?width=676&height=676">
 </div>
   
   ##
