@@ -15,7 +15,7 @@
   <img align="center" alt="Rocha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rocha-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
  
-  <img align="right" alt="Rocha" height="150" style="border-radius:30px;" src="https://cdn.discordapp.com/avatars/773548379388117014/cbfc3bccf0e176aed930c598b2a011fa.png">
+  <img align="right" alt="Rocha" height="150" style="border-radius:30px;" src="https://img.freepik.com/vetores-premium/codigo-binario-digital-dados-de-matriz-de-computador-que-caem-numeros-tipografia-de-codificacao-e-codigos-transmitem-ilustracao-de-fundo-cinza_102902-992.jpg">
 </div>
   
   ##
