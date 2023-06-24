@@ -1,8 +1,8 @@
 ## Alex Rocha, estudante de tecnologia! 
 
 <a href="https://github.com/rochaalbuquerque">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochaalbuquerque&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochaalbuquerque&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochaalbuquerque&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochaalbuquerque&layout=compact&langs_count=8&theme=gotham"/>
                    
 <div style="display: inline_block"><br>
   <img align="center" alt="Rocha-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
