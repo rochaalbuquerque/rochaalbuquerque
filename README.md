@@ -1,8 +1,8 @@
 ## Alex Rocha, estudante de tecnologia! 👽💻
 
 <div>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochaalbuquerque&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochaalbuquerque&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochaalbuquerque&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochaalbuquerque&layout=compact&langs_count=8&theme=gotham"/>
 </div>
 
 <!--
