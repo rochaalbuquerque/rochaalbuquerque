@@ -38,7 +38,7 @@
       <img align="center" alt="Rocha-AWS" height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
       <img align="center" alt="Rocha-Jira" height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" /> 
     </td>
-    <td width="50%" align="right">
+    <td width="50%" align="left">
       <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank">
         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
       </a>  
