@@ -19,21 +19,21 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td width="50%" align="center">    
-      <img   alt="Rocha-Spring" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-      <img   alt="Rocha-VsCod" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img   alt="Rocha-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
-      <img   alt="Rocha-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-      <img   alt="Rocha-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-      <img   alt="Rocha-Mysql" height="50" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-      <img   alt="Rocha-Java" height="40" width="50"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-      <img   alt="Rocha-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img   alt="Rocha-Jupyter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-      <img   alt="Rocha-Sonar" height="70" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" />
-      <img   alt="Rocha-HTML" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img   alt="Rocha-CSS" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img   alt="Rocha-Angular" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-      <img   alt="Rocha-Postman" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-      <img   alt="Rocha-Json" height="30" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+      <img  align="center"   alt="Rocha-Spring" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+      <img  align="center"  alt="Rocha-VsCod" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <img  align="center"   alt="Rocha-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+      <img  align="center"   alt="Rocha-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+      <img  align="center"   alt="Rocha-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+      <img  align="center"   alt="Rocha-Mysql" height="50" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+      <img  align="center"   alt="Rocha-Java" height="40" width="50"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+      <img  align="center"   alt="Rocha-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img  align="center"   alt="Rocha-Jupyter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+      <img  align="center"   alt="Rocha-Sonar" height="70" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" />
+      <img  align="center"   alt="Rocha-HTML" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img  align="center"   alt="Rocha-CSS" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img  align="center"   alt="Rocha-Angular" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+      <img  align="center"   alt="Rocha-Postman" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+      <img  align="center"   alt="Rocha-Json" height="30" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
       <img   alt="Rocha-Notion" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> 
       <img   alt="Rocha-AWS" height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
       <img   alt="Rocha-Jira" height="30" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" /> 
